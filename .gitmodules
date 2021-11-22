@@ -1,0 +1,8 @@
+[submodule "river-paper-dark-opensuse"]
+	path = river-paper-dark-opensuse
+	url = https://github.com/uncomfyhalomacro/river-paper-dark-theme
+	branch = opensuse-edition
+[submodule "river-paper"]
+	path = river-paper
+	url = https://github.com/uncomfyhalomacro/river-paper-theme
+	branch = main
