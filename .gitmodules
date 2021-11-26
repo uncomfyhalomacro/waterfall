@@ -6,3 +6,7 @@
 	path = river-paper
 	url = https://github.com/uncomfyhalomacro/river-paper-theme
 	branch = main
+[submodule "river-gruvbox-dark-theme"]
+	path = river-gruvbox-dark-theme
+	url = https://github.com/uncomfyhalomacro/river-gruvbox-theme
+	branch = main
