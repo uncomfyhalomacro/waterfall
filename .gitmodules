@@ -10,3 +10,6 @@
 	path = river-gruvbox-dark-theme
 	url = https://github.com/uncomfyhalomacro/river-gruvbox-theme
 	branch = main
+[submodule "river-nord"]
+	path = river-nord
+	url = https://github.com/uncomfyhalomacro/river-nord-theme
